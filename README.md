@@ -1,6 +1,6 @@
 ### Hi there, I'm Sudhanshu 👋
 
-## I'm a Game Developer, an Enthusiast and a Reverie!!
+## I'm a Programmer
 
 - 🌱 I’m...learning
 - 👯 Looking forward to contribute more to Open Source Projects
