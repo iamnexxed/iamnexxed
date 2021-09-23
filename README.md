@@ -16,6 +16,8 @@
 <img align="left" alt="Git" width="26px" src="https://github.com/iamnexxed/iamnexxed/blob/main/Unity.jpg" />
 <img align="left" alt="Git" width="26px" src="https://github.com/iamnexxed/iamnexxed/blob/main/Unreal.png" />
 <img align="left" alt="Git" width="26px" src="https://github.com/iamnexxed/iamnexxed/blob/main/PS.png" />
+<img align="left" alt="Git" width="26px" src="https://github.com/iamnexxed/iamnexxed/blob/main/Blender.png" />
+
 
 
 
