@@ -5,6 +5,8 @@
 - 🌱 I’m...learning
 - 👯 Looking forward to contribute more to Open Source Projects
 - ⚡ INTERESTS: Playing Video Games, Reading Novels, Discovering Astronomy
+- As an aspiring game developer I would like to change the lives of people through games that convey a
+meaningful experience. Seeking to create art that combines visual aesthetics with programming.
 
 ### Languages and Tools:
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
