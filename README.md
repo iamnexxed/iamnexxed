@@ -1,10 +1,7 @@
 ### Hi there, I'm Sudhanshu 👋
 
-## I'm a Programmer
+## I'm a Game Designer and a Programmer
 
-- 🌱 I’m...learning
-- 👯 Looking forward to contribute more to Open Source Projects
-- ⚡ Personal Interests: Playing Video Games, Reading Novels, Discovering Astronomy
 
 ### Languages and Tools:
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
