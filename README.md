@@ -1,6 +1,6 @@
 ### Hi there, I'm Sudhanshu 👋
 
-## I'm a Game Designer and a Programmer
+## I'm a Game Programmer
 
 
 ### Languages and Tools:
