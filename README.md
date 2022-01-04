@@ -1,7 +1,7 @@
 ### Hi there, I'm Sudhanshu 👋
 
 ## I'm a Game Programmer
-- I like make physics & objects go brr...
+- I like to make physics & objects go brr...
 
 
 ### Languages and Tools:
