@@ -1,1 +1,1 @@
-In search of subtle sweetness..
+In search of subtle sweetness
